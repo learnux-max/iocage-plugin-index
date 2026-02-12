@@ -1,7 +1,7 @@
 {
     "name": "Vault",
-    "release": "13.2-RELEASE",
-    "artifact": "https://github.com/marblenix/iocage-plugin-vault.git",
+    "release": "13.5-RELEASE",
+    "artifact": "https://github.com/learnux-max/iocage-plugin-vault.git",
     "pkgs": [
         "vault",
         "jq",
