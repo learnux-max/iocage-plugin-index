@@ -1,7 +1,7 @@
 {
     "name": "Transmission",
     "release": "13.5-RELEASE",
-    "artifact": "https://github.com/freenas/iocage-plugin-transmission.git",
+    "artifact": "https://github.com/learnux-max/iocage-plugin-transmission.git",
     "official": false,
     "properties": {
         "nat": 1,
