@@ -1,7 +1,7 @@
 {
     "name": "Grafana",
     "release": "13.5-RELEASE",
-    "artifact": "https://github.com/MalteHillmann/iocage-plugin-grafana.git",
+    "artifact": "https://github.com/learnux-max/iocage-plugin-grafana.git",
     "pkgs": [
         "grafana",
         "influxdb",
