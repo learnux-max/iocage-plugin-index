@@ -1,7 +1,7 @@
 {
     "name": "jenkins-lts",
     "release": "13.5-RELEASE",
-    "artifact": "https://github.com/freenas/iocage-plugin-jenkins-lts.git",
+    "artifact": "https://github.com/learnux-max/iocage-plugin-jenkins-lts.git",
     "official": false,
     "properties": {
         "nat": 1,
@@ -10,7 +10,7 @@
     "pkgs": [
         "jenkins-lts"
     ],
-    "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
     "fingerprints": {
         "iocage-plugins": [
             {
