@@ -1,6 +1,6 @@
 {
     "name": "BackupPC",
-    "release": "13.2-RELEASE",
+    "release": "13.5-RELEASE",
     "official": false,
     "artifact": "https://github.com/freenas/iocage-plugin-backuppc.git",
     "properties": {
@@ -9,7 +9,10 @@
     },
     "pkgs": [
         "backuppc4",
-        "apache24"
+        "apache24",
+        "par2cmdline",
+        "rsync-bpc",
+        "samba422"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
