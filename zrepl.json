@@ -1,7 +1,7 @@
 {
     "name": "zrepl",
     "release": "13.5-RELEASE",
-    "artifact": "https://github.com/johnramsden/iocage-plugin-zrepl.git",
+    "artifact": "https://github.com/learnux-max/iocage-plugin-zrepl.git",
     "official": false,
     "properties": {
         "nat": 1,
