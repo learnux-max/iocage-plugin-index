@@ -1,5 +1,5 @@
 {
-    "name": "Jellyfin Server",
+    "name": "Jellyfin_Server",
     "release": "13.5-RELEASE",
     "artifact": "https://github.com/learnux-max/iocage-plugin-jellyfin.git",
     "official": false,
