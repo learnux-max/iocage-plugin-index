@@ -5,7 +5,7 @@
     "official": false,
     "properties": {
         "nat": 1,
-        "nat_forwards": "tcp(8888:8888)
+        "nat_forwards": "tcp(8888:8888)"
         "jail_zfs": "on",
         "jail_zfs_mountpoint": "none"
     },
