@@ -1,5 +1,5 @@
 {
-    "name": "vault",
+    "name": "Vault",
     "release": "13.5-RELEASE",
     "artifact": "https://github.com/learnux-max/iocage-plugin-vault.git",
     "pkgs": [
